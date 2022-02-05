@@ -15,3 +15,5 @@ Varu viis 1
 Varu viis 2 (npm i -g nodemon)
 
     nodemon index.js
+
+muudatus
