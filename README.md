@@ -18,3 +18,4 @@ Varu viis 2 (npm i -g nodemon)
 
 mati
 kati
+jaanus
